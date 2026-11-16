@@ -30,6 +30,10 @@ A complete, **offline-first** term test marks management system for schools. Bui
 
 ---
 
+### 🚀 **[▶ Try the Live Demo](https://enchanting-blancmange-9a34ee.netlify.app)**
+
+---
+
 ## ✨ Features
 
 | | |
